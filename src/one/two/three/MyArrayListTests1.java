@@ -3,7 +3,7 @@ package one.two.three;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MyArrayListTests {
+public class MyArrayListTests1 {
 
     void run() {
 
