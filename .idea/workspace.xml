@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="020bdbc5-a30b-4563-8ffe-071e3adeecde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/two/three/MyCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/two/three/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests_03_sampleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -76,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696532931752</updated>
       <workItem from="1696532932990" duration="1184000" />
+      <workItem from="1696574199939" duration="5992000" />
     </task>
     <servers />
   </component>
