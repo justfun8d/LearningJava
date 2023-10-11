@@ -1,11 +1,11 @@
-package one.two.three;
+package one.two.three._01_collections._01_arrayList;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class MyArrayListTests1 {
 
-    void run() {
+    public void run() {
 
         int number = 3;
         switch (number) {

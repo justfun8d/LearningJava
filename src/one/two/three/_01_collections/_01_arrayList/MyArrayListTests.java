@@ -1,4 +1,4 @@
-package one.two.three;
+package one.two.three._01_collections._01_arrayList;
 
 import java.util.ArrayList;
 import java.util.List;

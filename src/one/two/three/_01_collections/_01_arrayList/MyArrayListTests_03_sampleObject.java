@@ -1,6 +1,4 @@
-package one.two.three;
-
-import java.util.Objects;
+package one.two.three._01_collections._01_arrayList;
 
 public class MyArrayListTests_03_sampleObject {
     int a;
