@@ -12,7 +12,9 @@ public class MyArrayListTests {
             case 1-> _01_addAll();
             case 100 -> _0Some_retainAll();
             case 101 -> _0Some_removeAll();
+
         }
+        ArrayList<Integer> list2=new ArrayList<>();
     }
 
     void _01_addAll(){

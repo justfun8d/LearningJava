@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="020bdbc5-a30b-4563-8ffe-071e3adeecde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_02_linkedList/MyLinkedListTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_03_hashSet/MyHashSetTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_01_arrayList/MyArrayListTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_01_arrayList/MyArrayListTests1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/two/three/MyArrayListTests_03_sampleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_01_arrayList/MyArrayListTests_03_sampleObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/two/three/MyCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/MyCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/two/three/MyCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/MyCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/two/three/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/two/three/_01_collections/_01_arrayList/MyArrayListTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_01_arrayList/MyArrayListTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/two/three/_01_collections/_02_linkedList/MyLinkedListTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/two/three/_01_collections/_02_linkedList/MyLinkedListTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,11 @@
       <workItem from="1696750411345" duration="1733000" />
       <workItem from="1696835557675" duration="366000" />
       <workItem from="1696837092481" duration="330000" />
-      <workItem from="1697034261329" duration="227000" />
+      <workItem from="1697034261329" duration="731000" />
+      <workItem from="1697091813090" duration="1696000" />
+      <workItem from="1697116062980" duration="879000" />
+      <workItem from="1698129644392" duration="3926000" />
+      <workItem from="1698233844991" duration="2512000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1696537836983</created>
@@ -122,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696837108561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3">
+      <option name="closed" value="true" />
+      <created>1697034523271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697034523271</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
