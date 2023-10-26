@@ -1,4 +1,4 @@
-package one.two.three._01_collections._03_hashSet;
+package one.two.three._01_collections.my_tests._03_hashSet;
 
 import java.util.*;
 
@@ -17,9 +17,9 @@ public class MyHashSetTests {
         HashSet<Integer> hashSet = new HashSet<>();
         LinkedHashSet<Integer> linkedHashSet = new LinkedHashSet<>();
         TreeSet<Integer> treeSet = new TreeSet<>();
+
+
     }
-
-
 }
 
 

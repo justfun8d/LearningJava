@@ -1,7 +1,7 @@
 package one.two.three._01_collections;
 
-import one.two.three._01_collections._01_arrayList.MyArrayListTests1;
-import one.two.three._01_collections._02_linkedList.MyLinkedListTests;
+import one.two.three._01_collections.my_tests._01_arrayList.MyArrayListTests1;
+import one.two.three._01_collections.my_tests._02_linkedList.MyLinkedListTests;
 
 public class MyCollections {
 

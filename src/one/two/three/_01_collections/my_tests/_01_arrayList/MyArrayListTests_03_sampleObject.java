@@ -1,4 +1,4 @@
-package one.two.three._01_collections._01_arrayList;
+package one.two.three._01_collections.my_tests._01_arrayList;
 
 public class MyArrayListTests_03_sampleObject {
     int a;
